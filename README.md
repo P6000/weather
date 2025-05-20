@@ -1,5 +1,5 @@
 student number: ST10492650
-NAME: TAU PHUMELELO
+NAME: PHUMELELO TAU
 This is a simple Android Weather Apphis is a simple Android weather application developed as part of a junior developer team assignment for a local weather organisation.
 
 ## Overview
